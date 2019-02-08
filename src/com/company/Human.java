@@ -45,7 +45,7 @@ public class Human {
     public int getWeight() {
         return this.weight;
     }
-    
+
 
     //减肥
     public int workout() {
