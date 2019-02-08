@@ -17,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="115">
+              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -26,14 +26,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Human.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="-667">
+              <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
               <folding>
-                <element signature="e#579#580#0" expanded="true" />
-                <element signature="e#672#673#0" expanded="true" />
-                <element signature="e#735#736#0" expanded="true" />
-                <element signature="e#833#834#0" expanded="true" />
-                <element signature="e#897#898#0" expanded="true" />
+                <element signature="e#633#634#0" expanded="true" />
+                <element signature="e#795#796#0" expanded="true" />
+                <element signature="e#893#894#0" expanded="true" />
+                <element signature="e#957#958#0" expanded="true" />
                 <element signature="e#616#617#0" expanded="true" />
                 <element signature="e#644#645#0" expanded="true" />
               </folding>
@@ -62,8 +61,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="108" />
-    <option name="y" value="30" />
+    <option name="x" value="7" />
+    <option name="y" value="16" />
     <option name="width" value="1797" />
     <option name="height" value="1020" />
   </component>
@@ -100,7 +99,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549590386205" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549591264280" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RunDashboard">
@@ -180,14 +179,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Human.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="-667">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
           <folding>
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#672#673#0" expanded="true" />
-            <element signature="e#735#736#0" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
-            <element signature="e#897#898#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#795#796#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
             <element signature="e#616#617#0" expanded="true" />
             <element signature="e#644#645#0" expanded="true" />
           </folding>
@@ -196,8 +194,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="115">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>

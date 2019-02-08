@@ -4,7 +4,8 @@ public class Human {
     //静态成员变量
     private static int number = 0;
     //成员变量
-    private String name;
+    //final成员变量 必须在声明的时候就初始化，或者在构造函数里面初始化！！！！！！
+    private final String name;
     private int weight;
 
     //构造方法的目的是：初始化对象
@@ -29,9 +30,9 @@ public class Human {
     }
 
     //改名字set 获取名字get
-    public void setName(String name) {
-        this.name = name;
-    }
+//    public void setName(String name) {
+//        this.name = name;
+//    }
 
     public String getName() {
         return this.name;
