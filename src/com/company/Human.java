@@ -2,10 +2,10 @@ package com.company;
 
 public class Human {
     //静态成员变量
-    public static int number = 0;
+    private static int number = 0;
     //成员变量
-    public String name;
-    public int weight;
+    private String name;
+    private int weight;
 
     //构造方法的目的是：初始化对象
     //构造方法1
@@ -28,10 +28,24 @@ public class Human {
         return new Human(name, weight);
     }
 
-    //改名字
-    public void rename(String newName) {
-        this.name = newName;
+    //改名字set 获取名字get
+    public void setName(String name) {
+        this.name = name;
     }
+
+    public String getName() {
+        return this.name;
+    }
+
+    //改体重set 获取体重get
+    public void setWeight(int weight) {
+        this.weight = weight;
+    }
+
+    public int getWeight() {
+        return this.weight;
+    }
+    
 
     //减肥
     public int workout() {
@@ -39,6 +53,7 @@ public class Human {
         return weight;
     }
 
+    // number 变量 只读，因为没有 setter 方法
     public static int getNumber() {
         return number;
     }
