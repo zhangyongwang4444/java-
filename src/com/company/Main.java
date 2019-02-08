@@ -31,6 +31,10 @@ public class Main {
 //            i++;
 //        }
 
+        final Human alex = new Human("alex", 120);
+        alex.setWeight(200);
+
+        System.out.println(alex.getWeight()); //200 
         System.out.println(jeff.getWeight());
     }
 }
